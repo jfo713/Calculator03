@@ -1,0 +1,50 @@
+//
+//
+//@implementation Calculator
+//
+//-(double) add{
+//    return a + b;
+//    }
+//
+//-(double) subtract{
+//    return a - b;
+//    }
+//
+//-(double) multiply{
+//    return a*b;
+//    }
+//
+//-(double) divide{
+//    return a/b;
+//    }
+//
+//@end
+//
+//
+////@implementation Calculator
+////
+////-(double) add:(double)a b:(double)b; {
+////    return a + b;
+////}
+////
+////-(double) subtract:(double)a b:(double)b {
+////    return a - b;
+////}
+////
+////-(double) multiply:(double)a b:(double)b {
+////    return a * b;
+////}
+////
+////-(double) divide:(double)a b:(double)b {
+////    return a / b;
+////}
+//
+////-(void) makeDouble {
+////    firstValue = [firstEntry.text doubleValue];
+////    secondValue = [secondEntry.text doubleValue];
+////}
+//
+//
+//
+//
+//@end
